@@ -1,2 +1,10 @@
-# My-very-first-C-project
-This is a repost of my very first programming project in (C++) written during my final year of High School.
+# My very first C++ project
+This is a repost of my very first programming project written in C++ during my final year of High School.
+First published in a [blogspot blog](https://rajivanda.blogspot.com). 
+This is repo is purely for nostalgic pursposes and showing to the world that it's okay to build something that feels cool to you and that you can manage with your current skillset.
+## A little back story:
+Back in those days, I learned C and C++ from a teacher in school, mostly using **Borland Turbo C compiler** (yes, even in 2012). I had learned an algorithm to mentally calculate the day from a given date from any date from 700 years. Although, my knowledge in C/C++ was quite basic, I decided that it would be pretty cool if I can write a program to implement that algorithm. I barely knew how to create classes and objects and didn't feel comfortable at all working with them, hence I chose to write a procedural program since that was the only way my mind could come up with an implementation.
+
+But even back then, I had realised that **Turbo C** was ancient, using C++98 standards and modern compilers and IDE used C++12 standard (something that I had newly picked up from my high school textbook). That made me experiment with **code blocks** IDE and **Visual Studio Express**, I was introduced to new features like __namespaces__ and __using__ keyword, that I had to include to use __cin__ and __cout__. I loved it! I was doing something different from my classmates and what my school teachers prescribed. I decided to buld a Win32 console application and I was trilled to have an .exe program that ran on modern OS. Seems quite silly now but I was quite proud of it back then. 😃
+
+It was fun to me, although I had forgotten about it till today when I decided to serach of my blogspot post and found it still online. I decided to post it here in its uedited form to for myself and everyone to chuckle at my lame design choices.😆 Surprisingly though, even after more than a decade, the code seems very readable and the original comments (which are left unedited too) still helped me remember the algorithm clearly!
